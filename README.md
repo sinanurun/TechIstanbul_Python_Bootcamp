@@ -59,10 +59,4 @@ Projeyi yerel ortamınızda çalıştırmak için:
 
 https://colab.research.google.com/drive/1Caq3htvzz0aHhscKLG711kdxVg9kU-gK?usp=sharing
 
-Telegram Grubu Linki
 
-https://t.me/+khXSgwtIIDU1ZWQ0
-
-Whastapp Grup Linki
-
-https://chat.whatsapp.com/Fr9SuFpql1T89HNSkEIiCL
