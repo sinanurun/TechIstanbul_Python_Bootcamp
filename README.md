@@ -12,9 +12,14 @@ Bu proje sıfırdan ileri seviyeye Python ile programlama pratikleri edinmek ist
 Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara hafta hafta yer verilecektir.
 
 - Hafta 1: Python’a Giriş ve Temel Programlama
-Python kurulumu, print(), input(), değişkenler, veri tipleri, operatörler
-if-elif-else, mantıksal operatörler,
-for ve while döngüleri, range(), break, continue,
+  Oturum 1 : Python kurulumu, print(), input(), değişkenler, veri tipleri, operatörler
+  Youtube Ders Linki: https://www.youtube.com/watch?v=n6uGkh0K03U
+
+  Oturum 2 : if-elif-else, mantıksal operatörler,
+  Yotube Ders Linki: https://www.youtube.com/watch?v=5gFr7FIjCiE
+
+  Oturum 3 : for ve while döngüleri, range(), break, continue,
+  Youtube Ders Linki:
 
 - Hafta 2: Veri Yapıları ve Fonksiyonlar
 Listeler, demetler, kümeler, liste metotları, 
@@ -46,6 +51,18 @@ Selenium ile tarayıcı otomasyonu, form doldurma, tıklama,
 
 Projeyi yerel ortamınızda çalıştırmak için:
 
+
+
+
+
 Ödev Linki
 
 https://colab.research.google.com/drive/1Caq3htvzz0aHhscKLG711kdxVg9kU-gK?usp=sharing
+
+Telegram Grubu Linki
+
+https://t.me/+khXSgwtIIDU1ZWQ0
+
+Whastapp Grup Linki
+
+https://chat.whatsapp.com/Fr9SuFpql1T89HNSkEIiCL
