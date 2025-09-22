@@ -19,7 +19,7 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
   Yotube Ders Linki: https://www.youtube.com/watch?v=5gFr7FIjCiE
 
   Oturum 3 : for ve while döngüleri, range(), break, continue,
-  Youtube Ders Linki:
+  Youtube Ders Linki: https://www.youtube.com/watch?v=GWXnNz67WQA
 
 - Hafta 2: Veri Yapıları ve Fonksiyonlar
 Listeler, demetler, kümeler, liste metotları, 
