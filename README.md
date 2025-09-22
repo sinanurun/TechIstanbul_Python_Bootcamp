@@ -52,7 +52,8 @@ Selenium ile tarayıcı otomasyonu, form doldurma, tıklama,
 Projeyi yerel ortamınızda çalıştırmak için:
 
 
-
+iletisim icin: akademi@ecodation.com
+sinanurun24@gmail.com
 
 
 Ödev Linki
