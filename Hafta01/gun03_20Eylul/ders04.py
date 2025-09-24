@@ -10,3 +10,4 @@ for dd in range(1,bitis+1):
     print(dd,carpim)
 
 print(toplam)
+

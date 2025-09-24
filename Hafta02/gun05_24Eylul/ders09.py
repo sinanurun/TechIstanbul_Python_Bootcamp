@@ -1,10 +1,15 @@
-oyuncular = {"bjk": ["Q7", "cenk", "talisca"],
-          "gs"   : ["muslera", "eren", "tolga"],
-          "fener"    : ["volkan", "ozan", "m topal"]}
+oyuncular = {
+    "bjk": ["rafa","cengiz","salih"],
+    "fb" : ["talisca","asensio","fred"],
+    "gs" : ["oshimen","sane","icardi"]
+}
+
 print(oyuncular["bjk"])
-for i in oyuncular:
-#    print(i)
-#    print(oyuncular[i])
-    print(i,"takımının oyuncuları : ",oyuncular[i])
-    for oyuncu in oyuncular[i]:
+print(oyuncular["fb"])
+print(oyuncular["gs"])
+
+for takim in oyuncular:
+    print(takim)
+   # print(oyuncular[takim])
+    for oyuncu in oyuncular[takim]:
         print("\t",oyuncu)
