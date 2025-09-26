@@ -71,4 +71,7 @@ sinanurun24@gmail.com
 https://colab.research.google.com/drive/1Caq3htvzz0aHhscKLG711kdxVg9kU-gK?usp=sharing
 
 
-[Techİstanbul Python Bootcamp 80 Saat](https://youtube.com/playlist?list=PL2qLbHVhA--LYXBmKJCE-ViF_sGCQbes4&si=KqjAc0BHK4d063id)
+[Techİstanbul Python Bootcamp 80 Saat Youtube Oynatma Listesi](https://youtube.com/playlist?list=PL2qLbHVhA--LYXBmKJCE-ViF_sGCQbes4&si=KqjAc0BHK4d063id)
+
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=KqjAc0BHK4d063id&amp;list=PL2qLbHVhA--LYXBmKJCE-ViF_sGCQbes4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
