@@ -28,7 +28,8 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
     Youtube Ders Linki : https://www.youtube.com/watch?v=oy_Pzbn3u-A. 
 
   Oturum 2: Sözlükler, iç içe veri yapıları, list comprehension  
-    Youtube Ders Linki :   
+    Youtube Ders Linki : https://www.youtube.com/watch?v=wY2_s0dVmM4. 
+      
 
   Oturum 3 : Fonksiyonlar, return, *args, **kwargs, lambda,   
   Youtube Ders Linki:  
