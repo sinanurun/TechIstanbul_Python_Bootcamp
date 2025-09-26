@@ -97,14 +97,14 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
 
 - Hafta 8: Flask ile Web Geliştirme ve Final Projesi
   
-  Oturum 1 : Flask kurulumu, ilk uygulama, route tanımlama, Jinja2 şablonları.  
+  Oturum 1 : Flask kurulumu, ilk uygulama, route tanımlama, Jinja2 şablonları.    
     Youtube Ders Linki:  
 
   Oturum 2 : Form işlemleri (POST/GET), statik dosyalar, kullanıcı etkileşimi. 
     Youtube Ders Linki:  
 
-  Oturum 3 : Final Projesi: Kişisel blog ve not uygulaması (Flask + SQLite + HTML/CSS)
-→ Proje sunumu, geri bildirim, GitHub’a yükleme   
+  Oturum 3 : Final Projesi: Kişisel blog ve not uygulaması (Flask + SQLite + HTML/CSS).  
+  → Proje sunumu, geri bildirim, GitHub’a yükleme   
     Youtube Ders Linki:  
 
 
