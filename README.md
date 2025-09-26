@@ -59,6 +59,55 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
     Youtube Ders Linki:  
 
 
+- Hafta 5: Web Otomasyonu ve API Kullanımı
+  
+  Oturum 1 : requests ile API kullanımı, JSON verisi, hava durumu uygulaması  
+    Youtube Ders Linki:  
+
+  Oturum 2 : BeautifulSoup ile web scraping, CSS seçiciler, haber başlıkları çekme  
+    Youtube Ders Linki:  
+
+  Oturum 3 : Selenium ile tarayıcı otomasyonu, form doldurma, tıklama,   
+    Youtube Ders Linki:  
+
+
+- Hafta 6: Nesne Yönelimli Programlama (OOP) ve Veritabanı
+  
+  Oturum 1 : Sınıflar, nesneler, __init__, özellikler ve metotlar,  
+    Youtube Ders Linki:  
+
+  Oturum 2 : Kalıtım, super(), @property, @setter, __str__, __repr__  
+    Youtube Ders Linki:  
+
+  Oturum 3 : SQLite: tablo oluşturma, veri ekleme/silme, CRUD işlemleri,   
+    Youtube Ders Linki:  
+
+
+- Hafta 7: Nesne Yönelimli Programlama (OOP) ve Veritabanı
+  
+  Oturum 1 : Sınıflar, nesneler, __init__, özellikler ve metotlar,  
+    Youtube Ders Linki:  
+
+  Oturum 2 : Kalıtım, super(), @property, @setter, __str__, __repr__  
+    Youtube Ders Linki:  
+
+  Oturum 3 : SQLite: tablo oluşturma, veri ekleme/silme, CRUD işlemleri,   
+    Youtube Ders Linki:  
+
+
+- Hafta 8: Nesne Yönelimli Programlama (OOP) ve Veritabanı
+  
+  Oturum 1 : Sınıflar, nesneler, __init__, özellikler ve metotlar,  
+    Youtube Ders Linki:  
+
+  Oturum 2 : Kalıtım, super(), @property, @setter, __str__, __repr__  
+    Youtube Ders Linki:  
+
+  Oturum 3 : SQLite: tablo oluşturma, veri ekleme/silme, CRUD işlemleri,   
+    Youtube Ders Linki:  
+
+
+
 
 
 ## 📦 Kurulum
