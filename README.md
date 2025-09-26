@@ -29,7 +29,7 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
 
   Oturum 2: Sözlükler, iç içe veri yapıları, list comprehension  
     Youtube Ders Linki : https://www.youtube.com/watch?v=wY2_s0dVmM4. 
-      
+
 
   Oturum 3 : Fonksiyonlar, return, *args, **kwargs, lambda,   
   Youtube Ders Linki:  
@@ -71,3 +71,4 @@ sinanurun24@gmail.com
 https://colab.research.google.com/drive/1Caq3htvzz0aHhscKLG711kdxVg9kU-gK?usp=sharing
 
 
+[Techİstanbul Python Bootcamp 80 Saat](https://youtube.com/playlist?list=PL2qLbHVhA--LYXBmKJCE-ViF_sGCQbes4&si=KqjAc0BHK4d063id)
