@@ -108,16 +108,7 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
     Youtube Ders Linki:  
 
 
-
-
-
-## 📦 Kurulum
-
-Projeyi yerel ortamınızda çalıştırmak için:
-
-
-iletisim icin: akademi@ecodation.com
-sinanurun24@gmail.com
+iletisim icin: akademi@ecodation.com    sinanurun24@gmail.com
 
 
 Ödev Linki
