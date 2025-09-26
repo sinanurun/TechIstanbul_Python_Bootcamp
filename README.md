@@ -12,22 +12,23 @@ Bu proje sıfırdan ileri seviyeye Python ile programlama pratikleri edinmek ist
 Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara hafta hafta yer verilecektir.
 
 - Hafta 1: Python’a Giriş ve Temel Programlama
+  
   Oturum 1 : Python kurulumu, print(), input(), değişkenler, veri tipleri, operatörler
-  Youtube Ders Linki: https://www.youtube.com/watch?v=n6uGkh0K03U
+    Youtube Ders Linki: https://www.youtube.com/watch?v=n6uGkh0K03U
 
   Oturum 2 : if-elif-else, mantıksal operatörler,
-  Yotube Ders Linki: https://www.youtube.com/watch?v=5gFr7FIjCiE
+    Yotube Ders Linki: https://www.youtube.com/watch?v=5gFr7FIjCiE
 
   Oturum 3 : for ve while döngüleri, range(), break, continue,
-  Youtube Ders Linki: https://www.youtube.com/watch?v=GWXnNz67WQA
+    Youtube Ders Linki: https://www.youtube.com/watch?v=GWXnNz67WQA
 
 - Hafta 2: Veri Yapıları ve Fonksiyonlar
 
   Oturum 1 : Listeler, demetler, kümeler, liste metotları,  
+    Youtube Ders Linki : https://www.youtube.com/watch?v=oy_Pzbn3u-A. 
 
-  Youtube Ders Linki : https://www.youtube.com/watch?v=oy_Pzbn3u-A. 
-
-Sözlükler, iç içe veri yapıları,
+  Oturum 2: Sözlükler, iç içe veri yapıları,
+    Youtube Ders Linki : 
 Fonksiyonlar, return, *args, **kwargs, lambda, list comprehension
 
 - Hafta 3: Hata Yönetimi, Modüller ve NumPy Giriş
