@@ -71,39 +71,40 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
     Youtube Ders Linki:  
 
 
-- Hafta 6: Nesne Yönelimli Programlama (OOP) ve Veritabanı
+- Hafta 6: Numpy ve Numpy Dosya İşlemleri
   
-  Oturum 1 : Sınıflar, nesneler, __init__, özellikler ve metotlar,  
+  Oturum 1 : NumPy giriş: np.array(), shape, dtype, temel işlemler, broadcasting,   
     Youtube Ders Linki:  
 
-  Oturum 2 : Kalıtım, super(), @property, @setter, __str__, __repr__  
+  Oturum 2 : NumPy: indeksleme, dilimleme, reshape, transpose, np.random  
     Youtube Ders Linki:  
 
-  Oturum 3 : SQLite: tablo oluşturma, veri ekleme/silme, CRUD işlemleri,   
+  Oturum 3 : mean, std, sum, np.where, np.nan, np.loadtxt,   
     Youtube Ders Linki:  
 
 
-- Hafta 7: Nesne Yönelimli Programlama (OOP) ve Veritabanı
+- Hafta 7: Pandas ve Veri Görselleştirme
   
-  Oturum 1 : Sınıflar, nesneler, __init__, özellikler ve metotlar,  
+  Oturum 1 : Pandas: Series, DataFrame, CSV/Excel yükleme, head(), info(), describe()  
     Youtube Ders Linki:  
 
-  Oturum 2 : Kalıtım, super(), @property, @setter, __str__, __repr__  
+  Oturum 2 : Filtreleme, gruplama (groupby), eksik veri (fillna, dropna), yeni sütun ekleme  
     Youtube Ders Linki:  
 
-  Oturum 3 : SQLite: tablo oluşturma, veri ekleme/silme, CRUD işlemleri,   
+  Oturum 3 : Matplotlib ve Seaborn ile grafik çizimi,    
     Youtube Ders Linki:  
 
 
-- Hafta 8: Nesne Yönelimli Programlama (OOP) ve Veritabanı
+- Hafta 8: Flask ile Web Geliştirme ve Final Projesi
   
-  Oturum 1 : Sınıflar, nesneler, __init__, özellikler ve metotlar,  
+  Oturum 1 : Flask kurulumu, ilk uygulama, route tanımlama, Jinja2 şablonları.  
     Youtube Ders Linki:  
 
-  Oturum 2 : Kalıtım, super(), @property, @setter, __str__, __repr__  
+  Oturum 2 : Form işlemleri (POST/GET), statik dosyalar, kullanıcı etkileşimi. 
     Youtube Ders Linki:  
 
-  Oturum 3 : SQLite: tablo oluşturma, veri ekleme/silme, CRUD işlemleri,   
+  Oturum 3 : Final Projesi: Kişisel blog ve not uygulaması (Flask + SQLite + HTML/CSS)
+→ Proje sunumu, geri bildirim, GitHub’a yükleme   
     Youtube Ders Linki:  
 
 
