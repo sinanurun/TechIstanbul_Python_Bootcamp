@@ -14,7 +14,6 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
 - Hafta 1: Python’a Giriş ve Temel Programlama
   
   Oturum 1 : Python kurulumu, print(), input(), değişkenler, veri tipleri, operatörler.  
-   
     Youtube Ders Linki: https://www.youtube.com/watch?v=n6uGkh0K03U
 
   Oturum 2 : if-elif-else, mantıksal operatörler,  
