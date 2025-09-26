@@ -1,6 +1,6 @@
 # 🚀 Hoş Geldiniz!
 
-Merhaba! Ben Sinan ÜRÜN, bilgisayar öğretmeni ve mühendisi olan bir yazılım geliştiriciyim. 
+Merhaba! Ben Sinan ÜRÜN, bilgisayar öğretmeni ve mühendisi olan bir yazılım geliştiricisi ve eğitmeniyim. 
 Bu repo TechIstanbul için Ecodation ile birlikte 80 saatlik Python ile Yazılım Geliştirme Bootcamp  için oluşturulmuştur.
 
 ## 📋 Proje Hakkında
