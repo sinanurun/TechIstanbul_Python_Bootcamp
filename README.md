@@ -27,9 +27,13 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
   Oturum 1 : Listeler, demetler, kümeler, liste metotları,  
     Youtube Ders Linki : https://www.youtube.com/watch?v=oy_Pzbn3u-A. 
 
-  Oturum 2: Sözlükler, iç içe veri yapıları,
-    Youtube Ders Linki : 
-Fonksiyonlar, return, *args, **kwargs, lambda, list comprehension
+  Oturum 2: Sözlükler, iç içe veri yapıları, list comprehension
+    Youtube Ders Linki :   
+
+  Oturum 3 : Fonksiyonlar, return, *args, **kwargs, lambda,   
+  Youtube Ders Linki:  
+
+  
 
 - Hafta 3: Hata Yönetimi, Modüller ve NumPy Giriş
 try-except, raise, finally, hata mesajları
