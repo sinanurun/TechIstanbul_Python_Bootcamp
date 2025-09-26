@@ -23,7 +23,8 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
 
 - Hafta 2: Veri Yapıları ve Fonksiyonlar
 
-Oturum 1 : Listeler, demetler, kümeler, liste metotları, 
+Oturum 1 : Listeler, demetler, kümeler, liste metotları,  
+ 
 Youtube Ders Linki : https://www.youtube.com/watch?v=oy_Pzbn3u-A. 
 
 Sözlükler, iç içe veri yapıları,
