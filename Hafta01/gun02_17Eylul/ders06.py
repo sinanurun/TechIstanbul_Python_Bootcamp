@@ -10,3 +10,7 @@ if hiz > 132:
 
 else:
     print("kurallara uyduğunuz için tebrikler \n iyi sürüşler dileriz")
+
+#yukarıdaki örnekte if else yapısı kullanıldı
+#örnekte hız 132 den büyük ise if altındaki kod bloğu çalışır
+#örnekte hız 132 den küçük veya eşit ise else altındaki kod bloğu çalışır
