@@ -47,25 +47,18 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
     Youtube Ders Linki:  
 
 
-- Hafta 3: Hata Yönetimi, Modüller ve NumPy Giriş
-try-except, raise, finally, hata mesajları
-Modüller: math, random, datetime, kendi modülünüzü yazma
-NumPy giriş: np.array(), shape, dtype, temel işlemler, broadcasting, 
+- Hafta 4: Nesne Yönelimli Programlama (OOP) ve Veritabanı
+  
+  Oturum 1 : Sınıflar, nesneler, __init__, özellikler ve metotlar,  
+    Youtube Ders Linki:  
 
-- Hafta 4: İleri Seviye NumPy ve Dosya İşlemleri
-NumPy: indeksleme, dilimleme, reshape, transpose, np.random
-mean, std, sum, np.where, np.nan, 
-.txt ve .csv okuma/yazma, with kullanımı, np.loadtxt, 
+  Oturum 2 : Kalıtım, super(), @property, @setter, __str__, __repr__  
+    Youtube Ders Linki:  
 
-- Hafta 5: Nesne Yönelimli Programlama (OOP) ve Veritabanı
-Sınıflar, nesneler, __init__, özellikler ve metotlar, 
-Kalıtım, super(), @property, @setter, __str__, __repr__
-SQLite: tablo oluşturma, veri ekleme/silme, CRUD işlemleri, 
+  Oturum 3 : SQLite: tablo oluşturma, veri ekleme/silme, CRUD işlemleri,   
+    Youtube Ders Linki:  
 
-- Hafta 6: Web Otomasyonu ve API Kullanımı
-requests ile API kullanımı, JSON verisi, hava durumu uygulaması
-BeautifulSoup ile web scraping, CSS seçiciler, haber başlıkları çekme
-Selenium ile tarayıcı otomasyonu, form doldurma, tıklama, 
+
 
 
 ## 📦 Kurulum
