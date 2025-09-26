@@ -1,6 +1,7 @@
-#tip dönüşümü casting
+#tip dönüşümü type casting
 #veri tipleri arasında dönüşüm yapmak için kullanılır
 #int() float() str() bool() 
+
 
 
 #işlem için en önemli şey dönüştürülebilir olması verinin
