@@ -24,3 +24,48 @@ def karsilama():
 if __name__=="__main__":
     print("programa hosgeldin")
     karsilama()
+
+"""
+def toplama(a,b):
+    sonuc = a + b
+    return sonuc
+
+def cikar(a,b):
+    sonuc = a - b
+    return sonuc
+
+def carpma(a,b):
+    sonuc = a * b
+    return sonuc
+
+def bolme(a,b):
+    sonuc = a / b
+    return sonuc
+
+def yapIslemi(a,b, islem):
+    if islem == "toplama":
+        return toplama(a,b)
+    elif islem == "cikarma":
+        return cikar(a,b)
+    elif islem == "carpma":
+        return carpma(a,b)
+    elif islem == "bolme":
+        return bolme(a,b)
+    else:
+        return "Geçersiz işlem"
+
+def karsilama():
+    islem = input("yapmak istediğiniz işlemi giriniz (toplama, cikarma, carpma, bolme): ")
+    def alSayi():
+        return float(input("Sayıyı giriniz: "))
+    a = alSayi()    
+    b = alSayi()
+    sonuc = yapIslemi(a,b,islem)    
+    print(f"{a} {islem} {b} = {sonuc}")
+    return karsilama()
+
+if __name__ == "__main__":
+    print("Hesap makinesi programına hoşgeldiniz")
+    karsilama()
+    
+"""
