@@ -1,4 +1,4 @@
-# EK ÖRNEK 1: Çok Basit Hata Yakalama
+# ÖRNEK 1: Çok Basit Hata Yakalama
 print("=== BASİT HATA YAKALAMA ===")
 
 try:
@@ -10,7 +10,7 @@ except:
 print("Program bitti.")
 
 
-# EK ÖRNEK 2: Sözlük Anahtar Hatası
+# ÖRNEK 2: Sözlük Anahtar Hatası
 print("=== SÖZLÜK HATASI ===")
 
 ogrenci = {"ad": "Ali", "not": 85}

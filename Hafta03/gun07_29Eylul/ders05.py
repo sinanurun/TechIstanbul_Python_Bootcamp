@@ -31,7 +31,9 @@ try:
 except (ValueError, ZeroDivisionError, IndexError) as hata:
     # Üç farklı hatayı aynı blokta yakalıyoruz
     print(f"HATA oluştu: {type(hata).__name__}")
-    
+    # isinstance ile kontrol yapıyoruz istance kullanım amacı : hatanın türünü kontrol etmek
+    #Fonksiyon belirtilen nesnenin belirtilen tipte olup olmadığını, aksi takdirde . isinstance()döndürür .TrueFalse
+    # True Eğer tip parametresi bir tuple ise, bu fonksiyon nesnenin tuple'daki tiplerden biri olup olmadığını döndürecektir .
     if isinstance(hata, ValueError):
         print("Lütfen geçerli bir tam sayı girin!")
     elif isinstance(hata, ZeroDivisionError):
