@@ -29,6 +29,11 @@ try:
     yas = bugun.year - dogum_tarihi.year
     
     # Doğum günü henüz gelmediyse 1 yaş eksik say
+    # aşağıdaki kodda ikili tarih karşılaştırması yapılıyor
+    # bu yöntem ile ay ve gün bazında karşılaştırma yapılabilir
+    # (month, day) şeklinde tuple karşılaştırması yapılıyor böylece doğum günü henüz gelmediyse yaş 1 eksik hesaplanıyor
+    # her iki tuple karşılaştırması sırasıyla ilk elemanları, eşit ise ikinci elemanları karşılaştırır
+    # bu yöntemle doğum günü kontrolü yapılabilir
     if (bugun.month, bugun.day) < (dogum_tarihi.month, dogum_tarihi.day):
         yas -= 1
     

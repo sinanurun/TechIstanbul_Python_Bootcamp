@@ -18,7 +18,7 @@ try:
     
     print(f"\nDaire Bilgileri:")
     print(f"Yarıçap: {yaricap}")
-    print(f"Çevre: {daire_cevre:.2f}")
+    print(f"Çevre: {daire_cevre:.3f}")
     print(f"Alan: {daire_alan:.2f}")
     
     # Karekök ve üs hesapları
@@ -27,7 +27,7 @@ try:
     kupu = math.pow(yaricap, 3)
     
     print(f"\nDiğer Hesaplar:")
-    print(f"Karekök: {karekok:.2f}")
+    print(f"Karekök: {karekok:.3f}")
     print(f"Karesi: {karesi:.2f}")
     print(f"Küpü: {kupu:.2f}")
     

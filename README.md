@@ -32,7 +32,7 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
 
 
   * Oturum 3 : Fonksiyonlar, return, *args, **kwargs, lambda,   
-    Youtube Ders Linki:  
+    Youtube Ders Linki: https://www.youtube.com/watch?v=_XEKjGd-_F0  
 
 
 - Hafta 3: Hata Yönetimi, Modüller ve Dosya İşlemleri
