@@ -38,7 +38,7 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
 - Hafta 3: Hata Yönetimi, Modüller ve Dosya İşlemleri
   
   * Oturum 1 : try-except, raise, finally, hata mesajları.  
-    Youtube Ders Linki:  
+    Youtube Ders Linki:  https://www.youtube.com/watch?v=yGHFgHV29WM  
 
   * Oturum 2 : Modüller: math, random, datetime, kendi modülünüzü yazma  
     Youtube Ders Linki:  
