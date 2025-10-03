@@ -41,7 +41,7 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
     Youtube Ders Linki:  https://www.youtube.com/watch?v=yGHFgHV29WM  
 
   * Oturum 2 : Modüller: math, random, datetime, kendi modülünüzü yazma  
-    Youtube Ders Linki:  
+    Youtube Ders Linki:  https://www.youtube.com/watch?v=Hl-TuWwdoJU    
 
   * Oturum 3 : .txt ve .csv okuma/yazma, with kullanımı   
     Youtube Ders Linki:  
