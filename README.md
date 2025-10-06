@@ -44,7 +44,7 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
     Youtube Ders Linki:  https://www.youtube.com/watch?v=Hl-TuWwdoJU    
 
   * Oturum 3 : .txt ve .csv okuma/yazma, with kullanımı   
-    Youtube Ders Linki:  
+    Youtube Ders Linki:  https://www.youtube.com/watch?v=1NsyN84DAf8  
 
 
 - Hafta 4: Nesne Yönelimli Programlama (OOP) ve Veritabanı
