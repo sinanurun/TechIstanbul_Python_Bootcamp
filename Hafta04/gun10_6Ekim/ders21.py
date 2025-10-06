@@ -126,16 +126,4 @@ class Kitap:
     def oku(self):
         self.okundu = True
 
-# 13. Banka Hesabı
-class BankaHesabi:
-    def __init__(self, hesap_no, bakiye=0):
-        self.hesap_no = hesap_no
-        self.bakiye = bakiye
-    
-    def para_yatir(self, miktar):
-        self.bakiye += miktar
-    
-    def para_cek(self, miktar):
-        if miktar <= self.bakiye:
-            self.bakiye -= miktar
 
