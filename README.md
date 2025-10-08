@@ -50,7 +50,7 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
 - Hafta 4: Nesne Yönelimli Programlama (OOP) ve Veritabanı
   
   * Oturum 1 : Sınıflar, nesneler, __init__, özellikler ve metotlar,  
-    Youtube Ders Linki:  
+    Youtube Ders Linki:  https://www.youtube.com/watch?v=jhFlxS60fig  
 
   * Oturum 2 : Kalıtım, super(), @property, @setter, __str__, __repr__  
     Youtube Ders Linki:  
