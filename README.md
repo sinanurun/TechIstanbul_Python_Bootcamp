@@ -115,6 +115,8 @@ iletisim icin: akademi@ecodation.com    sinanurun24@gmail.com
 
 https://colab.research.google.com/drive/1Caq3htvzz0aHhscKLG711kdxVg9kU-gK?usp=sharing
 
+Sinan Hoca Youtube Dersleri :  
+  https://www.youtube.com/watch?v=mHrtiCVAFPc&list=PLv5gvG08kLQeux6bm3z-Q3RNjInszOYd2  
 
 [Techİstanbul Python Bootcamp 80 Saat Youtube Oynatma Listesi](https://youtube.com/playlist?list=PL2qLbHVhA--LYXBmKJCE-ViF_sGCQbes4&si=KqjAc0BHK4d063id)
 
