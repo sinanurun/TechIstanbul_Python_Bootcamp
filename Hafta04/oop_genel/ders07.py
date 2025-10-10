@@ -1,4 +1,4 @@
-class sporcu():
+class Sporcu():
     def __init__(self,ad,brans,altin,gumus,bronz):
         self.ad = ad
         self.brans = brans
@@ -12,7 +12,7 @@ class sporcu():
         amadalya = self.__maltin
         return "altın madalya sayısı {}".format(self.__maltin)
 
-atlet1 = sporcu("ali","100 Metre",2,3,9)
+atlet1 = Sporcu("ali","100 Metre",2,3,9)
 print(atlet1.atlet_bilgisi())
 print("bronz madalya sayısı",atlet1.mbronz)
 print("gümüş madalya sayısı",atlet1._mgumus)

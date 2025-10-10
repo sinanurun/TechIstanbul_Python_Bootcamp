@@ -1,4 +1,4 @@
-class futbolcu():
+class Futbolcu():
     kosu = "koşabilir"
     depar = "depar atar"
     maas = 500
@@ -6,19 +6,19 @@ class futbolcu():
         self.mevki = "orta"
         self.ayak = ayak
     pass
-class basketbolcu():
+class Basketbolcu():
     turnike = "turnike atabilir"
     ucluk = "üçlük atabilir"
     maas = 750
     def __init__(self):
         self.bolge = "ileri"
     pass
-class multisporcu(basketbolcu,futbolcu):
+class MultiSporcu(Basketbolcu,Futbolcu):
     def __init__(self,ayak):
-        basketbolcu.__init__(self)
-        futbolcu.__init__(self,ayak)
+        Basketbolcu.__init__(self)
+        Futbolcu.__init__(self,ayak)
     pass
-mahmut = multisporcu("sol")
+mahmut = MultiSporcu("sol")
 print(mahmut.turnike)
 print(mahmut.kosu)
 print(mahmut.maas)

@@ -1,4 +1,4 @@
-class calisan:
+class Calisan:
 
     zam_oranı = 1.05
     per_say = 0
@@ -8,25 +8,25 @@ class calisan:
         self.soyad = soyad
         self.maas = maas
         self.eposta = self.ad+self.soyad+"@sirket.com"
-        calisan.per_say = calisan.per_say + 1
+        Calisan.per_say = Calisan.per_say + 1
     def tamad(self):
         return "adı : {}  soyadı : {}".format(self.ad,self.soyad)
 
     def arttir(self):
         # self.maas = (self.maas*1.05)
-        # self.maas = (self.maas * calisan.zam_oranı)
+        # self.maas = (self.maas * Calisan.zam_oranı)
         self.maas = (self.maas * self.zam_oranı)
 
     def __repr__(self):
-        return "calisan('{}','{}','{}')".format(self.ad,self.soyad,self.maas)
+        return "Calisan('{}','{}','{}')".format(self.ad,self.soyad,self.maas)
 
     def __str__(self):
         return "{} , eposta : {}".format(self.tamad(),self.eposta)
     def __add__(self, other):
         return self.maas + other.maas
 
-personel1 = calisan("ali","demir",2500)
-personel2 = calisan("kerim","bakir",1950)
+personel1 = Calisan("ali","demir",2500)
+personel2 = Calisan("kerim","bakir",1950)
 
 print(personel1 + personel2)
 

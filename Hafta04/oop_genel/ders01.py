@@ -1,4 +1,4 @@
-class calisan:
+class Calisan:
 
     katsayi = 5
 
@@ -10,12 +10,12 @@ class calisan:
     def tamad(self):
         return "adı : {}  soyadı : {}".format(self.ad,self.soyad)
 
-personel1 = calisan("ali","demir",2500)
+personel1 = Calisan("ali","demir",2500)
 
-personel2 = calisan ("kerim","bakir",1950)
+personel2 = Calisan ("kerim","bakir",1950)
 
-print(calisan.tamad(personel1))
-print(calisan.katsayi)
+print(Calisan.tamad(personel1))
+print(Calisan.katsayi)
 
 # Aşağıdaki kısım dersin ilk bölümünde anlatılan kısım
 
@@ -30,16 +30,16 @@ print(calisan.katsayi)
 
 
 
-# class calisan:
+# class Calisan:
 #     def __init__(self,ad,soyad,maas):
 #         pass
 #
-# personel1 = calisan("ali","demir",2500)
+# personel1 = Calisan("ali","demir",2500)
 # personel1.ad = "ali"
 # personel1.soyad = "demir"
 # personel1.maas = 2500
 #
-# personel2 = calisan ()
+# personel2 = Calisan()
 # personel2.ad = "kerim"
 # personel2.soyad = "bakir"
 # personel2.maas = 1950
