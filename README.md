@@ -53,7 +53,7 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
     Youtube Ders Linki:  https://www.youtube.com/watch?v=jhFlxS60fig  
 
   * Oturum 2 : Kalıtım, super(), @property, @setter, __str__, __repr__  
-    Youtube Ders Linki:  
+    Youtube Ders Linki:  https://www.youtube.com/watch?v=f9jK7dJW31M  
 
   * Oturum 3 : SQLite: tablo oluşturma, veri ekleme/silme, CRUD işlemleri,   
     Youtube Ders Linki:  
