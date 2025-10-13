@@ -1,3 +1,4 @@
+"""
 import requests
 import json
 
@@ -25,7 +26,7 @@ except requests.exceptions.RequestException as e:
     print("Bağlantı hatası:", e)
 except KeyError as e:
     print("Veri formatı hatası:", e)
-
+"""
 import requests
 import json
 from datetime import datetime

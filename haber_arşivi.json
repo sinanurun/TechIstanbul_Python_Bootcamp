@@ -1,0 +1,61 @@
+[
+    {
+        "status": "ok",
+        "totalResults": 36,
+        "articles": [
+            {
+                "source": {
+                    "id": "cnn",
+                    "name": "CNN"
+                },
+                "author": "Jackie Wattles",
+                "title": "Is NASA losing the moon race? All eyes are on the megarocket launching Monday for answers - CNN",
+                "description": "Calls for the US to land astronauts back on the moon before China have been increasingly loud and frequent. But it all hinges on Starship.",
+                "url": "https://www.cnn.com/2025/10/12/science/spacex-starship-moon-race-nasa-china",
+                "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-10-12t004224z-942384143-rc20ahayjxt7-rtrmadp-3-spacex-starship.JPG?c=16x9&q=w_800,c_fill",
+                "publishedAt": "2025-10-12T11:30:51Z",
+                "content": "Calls for the United States to return astronauts to the moon before the end of the decade have been increasingly loud and frequent, emanating from bipartisan lawmakers and science advocates alike. Bu… [+12726 chars]"
+            },
+            {
+                "source": {
+                    "id": "associated-press",
+                    "name": "Associated Press"
+                },
+                "author": "Christopher Rugaber",
+                "title": "Trump says inflation is 'defeated' and the Fed has cut rates, yet prices remain too high for many - AP News",
+                "description": "Inflation has risen in three of the last four months and is slightly higher than it was a year ago. Yet you wouldn’t know it from listening to President Donald Trump or even some of the inflation fighters at the Federal Reserve who have dismissed or even down…",
+                "url": "https://apnews.com/article/trump-inflation-federal-reserve-powell-88358f4955fd86ef3c86f5e8e089e775",
+                "urlToImage": "https://dims.apnews.com/dims4/default/2742117/2147483647/strip/true/crop/7059x3971+0+368/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F16%2Fcd%2Fa138c94e907b71c21ae160e84edb%2F900a4717519f4ae4b0e339fb3ff045fe",
+                "publishedAt": "2025-10-12T11:03:00Z",
+                "content": "WASHINGTON (AP) Inflation has risen in three of the last four months and is slightly higher than it was a year ago, when it helped sink then-Vice President Kamala Harris presidential campaign. Yet yo… [+6673 chars]"
+            },
+            {
+                "source": {
+                    "id": "politico",
+                    "name": "Politico"
+                },
+                "author": "Gary Fineout, Kimberly Leonard",
+                "title": "Inside Uthmeier’s path to a critical Trump endorsement in Florida - Politico",
+                "description": "The president’s endorsement lowers the possibility of a contentious Republican primary next year and lessens the chance of a full-blown Trump-DeSantis proxy war across the ballot.",
+                "url": "https://www.politico.com/news/2025/10/12/uthmeier-florida-trump-endorsement-00603089",
+                "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fd9%2F1f%2F3a2c5dce4bfeb6dab4f9dadb8953%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2232927711",
+                "publishedAt": "2025-10-12T11:00:00Z",
+                "content": "But Uthmeiers role in helping create Alligator Alcatraz the controversial immigration detention center in the Everglades and his work with Eric Trump to help secure land for a Trump presidential libr… [+5162 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Yahoo Entertainment"
+                },
+                "author": "Craig Stirling",
+                "title": "Stock Bubble Dread Grips Central Bankers in Washington - Yahoo Finance",
+                "description": "Global policymakers and finance ministers will gather in Washington for the International Monetary Fund/World Bank fall meetings after a chorus of warnings...",
+                "url": "https://finance.yahoo.com/news/stock-bubble-dread-grips-central-200000324.html",
+                "urlToImage": "https://s.yimg.com/ny/api/res/1.2/W4kQOnwzoIO48r8VgFNIQQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/434eea3f1dccb076af6871c7190220ba",
+                "publishedAt": "2025-10-12T10:35:51Z",
+                "content": "(Bloomberg) Central bankers, already uneasy about trade tensions and swelling public debt, will collectively confront a new worry in the coming week: the danger of a market crash.\r\nGlobal policymaker… [+10602 chars]"
+            }
+        ],
+        "_kayit_tarihi": "2025-10-13T15:23:26.476762"
+    }
+]
