@@ -56,7 +56,7 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
     Youtube Ders Linki:  https://www.youtube.com/watch?v=f9jK7dJW31M  
 
   * Oturum 3 : SQLite: tablo oluşturma, veri ekleme/silme, CRUD işlemleri,   
-    Youtube Ders Linki:  
+    Youtube Ders Linki:  https://www.youtube.com/watch?v=szEoJ3gX6s8    
 
 
 - Hafta 5: Web Otomasyonu ve API Kullanımı

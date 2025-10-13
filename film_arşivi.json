@@ -30,5 +30,149 @@
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
+    },
+    {
+        "Title": "Godfather",
+        "Year": "2022",
+        "Rated": "TV-14",
+        "Released": "05 Oct 2022",
+        "Runtime": "157 min",
+        "Genre": "Action, Crime, Drama",
+        "Director": "Mohan Raja",
+        "Writer": "Lakshmi Bhupala, Murali Gopy, Mohan Raja",
+        "Actors": "Chiranjeevi, Salman Khan, Nayanthara",
+        "Plot": "A political leader's death leads to a power struggle. Amid corruption, greed and deceit, an unlikely opponent steps up.",
+        "Language": "Telugu",
+        "Country": "India",
+        "Awards": "1 win & 4 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMDI2OTU2MzctMzYwZC00MjM5LThmNmQtZjRhOWFlMjQ4NjkyXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.1/10"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "5.1",
+        "imdbVotes": "8,046",
+        "imdbID": "tt13130308",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Lauf um Dein Leben - Vom Junkie zum Ironman",
+        "Year": "2008",
+        "Rated": "N/A",
+        "Released": "24 Apr 2008",
+        "Runtime": "96 min",
+        "Genre": "Biography, Drama, Sport",
+        "Director": "Adnan Köse",
+        "Writer": "Fritjof Hohagen, Adnan Köse",
+        "Actors": "Max Riemelt, Jasmin Schwiers, Uwe Ochsenknecht",
+        "Plot": "He lived the junkie's life as a heroin addict. Triathlon transformed him. Biopic of the record breaking Ironman Andreas Niedrig.",
+        "Language": "German",
+        "Country": "Germany",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYzA3YjNjZDAtYWU2MC00YmIyLTkzMjEtOGE5YmIyZmYxODIzXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.0/10"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "6.0",
+        "imdbVotes": "265",
+        "imdbID": "tt0954542",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "StudioCanal",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Iron Man",
+        "Year": "2008",
+        "Rated": "PG-13",
+        "Released": "02 May 2008",
+        "Runtime": "126 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Jon Favreau",
+        "Writer": "Mark Fergus, Hawk Ostby, Art Marcum",
+        "Actors": "Robert Downey Jr., Gwyneth Paltrow, Terrence Howard",
+        "Plot": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+        "Language": "English, Persian, Urdu, Arabic, Kurdish, Hindi, Hungarian",
+        "Country": "United States, Canada",
+        "Awards": "Nominated for 2 Oscars. 24 wins & 73 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "94%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "79/100"
+            }
+        ],
+        "Metascore": "79",
+        "imdbRating": "7.9",
+        "imdbVotes": "1,194,561",
+        "imdbID": "tt0371746",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$319,034,126",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Avengers",
+        "Year": "2012",
+        "Rated": "PG-13",
+        "Released": "04 May 2012",
+        "Runtime": "143 min",
+        "Genre": "Action, Sci-Fi",
+        "Director": "Joss Whedon",
+        "Writer": "Joss Whedon, Zak Penn",
+        "Actors": "Robert Downey Jr., Chris Evans, Scarlett Johansson",
+        "Plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+        "Language": "English, Russian",
+        "Country": "United States",
+        "Awards": "Nominated for 1 Oscar. 39 wins & 81 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "91%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "69/100"
+            }
+        ],
+        "Metascore": "69",
+        "imdbRating": "8.0",
+        "imdbVotes": "1,528,141",
+        "imdbID": "tt0848228",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$623,357,910",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
     }
 ]
