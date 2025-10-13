@@ -72,7 +72,7 @@
 | `@x.deleter` | Değişkeni siler                            | `del dik.en`      |
 
 
-🧠 Önemli:  @property = getter
+Önemli:  @property = getter
             @x.setter = setter
             @x.deleter = deleter
 
