@@ -62,7 +62,7 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
 - Hafta 5: Web Otomasyonu ve API Kullanımı
   
   * Oturum 1 : requests ile API kullanımı, JSON verisi, hava durumu uygulaması  
-    Youtube Ders Linki:  
+    Youtube Ders Linki:  https://www.youtube.com/watch?v=HKoKi64sfuI  
 
   * Oturum 2 : BeautifulSoup ile web scraping, CSS seçiciler, haber başlıkları çekme  
     Youtube Ders Linki:  
