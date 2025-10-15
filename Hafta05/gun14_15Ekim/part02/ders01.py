@@ -1,11 +1,14 @@
 """
 🔹 Web Scraping Nedir?
-Web scraping, internet üzerindeki web sitelerinden otomatik olarak veri toplama işlemidir. Özellikle yapılandırılmamış verileri (örneğin haber başlıkları, ürün fiyatları, yorumlar) yapılandırılmış forma (CSV, JSON, veritabanı) dönüştürmek için kullanılır.
+Web scraping, internet üzerindeki web sitelerinden otomatik olarak veri toplama işlemidir. 
+Özellikle yapılandırılmamış verileri (örneğin haber başlıkları, ürün fiyatları, yorumlar) yapılandırılmış 
+forma (CSV, JSON, veritabanı) dönüştürmek için kullanılır.
 """
 
 """
 ⚠️ Etik ve Yasal Uyarı:
-Her site scraping’e izin vermez. robots.txt dosyası kontrol edilmeli, aşırı istek gönderilmemeli, telif hakkı ihlali yapılmamalıdır. 
+Her site scraping’e izin vermez. robots.txt dosyası kontrol edilmeli, aşırı istek gönderilmemeli, 
+telif hakkı ihlali yapılmamalıdır. 
 """
 
 """
