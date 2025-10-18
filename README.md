@@ -65,7 +65,7 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
     Youtube Ders Linki:  https://www.youtube.com/watch?v=HKoKi64sfuI  
 
   * Oturum 2 : BeautifulSoup ile web scraping, CSS seçiciler, haber başlıkları çekme  
-    Youtube Ders Linki:  
+    Youtube Ders Linki:  https://www.youtube.com/watch?v=4aYTnD2MjyI  
 
   * Oturum 3 : Selenium ile tarayıcı otomasyonu, form doldurma, tıklama,   
     Youtube Ders Linki:  
