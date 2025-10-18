@@ -135,6 +135,11 @@ def element_finding_methods():
         
         # time.sleep(2)
 
+        element = driver.find_element(By.LINK_TEXT, "Hakkımızda")
+        print(element.get_attribute("href"))
+        element.click()
+        driver.implicitly_wait(10)
+
     except Exception as e:
         print(f"Hata: {e}")
     finally:
