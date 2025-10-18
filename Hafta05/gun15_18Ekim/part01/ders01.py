@@ -50,3 +50,10 @@ Selenium:
 
 # VEYA Manuel olarak ChromeDriver indir:
 # https://chromedriver.chromium.org/
+
+
+#https://googlechromelabs.github.io/chrome-for-testing/
+
+#https://github.com/mozilla/geckodriver/releases
+
+#https://msedgewebdriverstorage.z22.web.core.windows.net/
