@@ -1,1 +1,3 @@
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+windows powershell aracılığı ile sanal ortam işlemleri yapmak için yukarıdaki kodu terminalde çalıştır
