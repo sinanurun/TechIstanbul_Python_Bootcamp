@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block title %}Ana Sayfa{% endblock %}
+
+{% block content %}
+<h2>Hoş geldiniz!</h2>
+<p>Burada blog yazıları olacak.</p>
+<a href="{{ url_for('about') }}">Hakkımda</a>
+{% endblock %}
