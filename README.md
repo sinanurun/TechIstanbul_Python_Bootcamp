@@ -80,7 +80,6 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
     Youtube Ders Linki:  
 
   * Oturum 3 : Final Projesi: Kişisel blog ve not uygulaması (Flask + SQLite + HTML/CSS).  
-  → Proje sunumu, geri bildirim, GitHub’a yükleme   
     Youtube Ders Linki:  
 
 
@@ -106,6 +105,7 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
 
   * Oturum 3 : Matplotlib ve Seaborn ile grafik çizimi,    
     Youtube Ders Linki:  
+  → Proje sunumu, geri bildirim, GitHub’a yükleme   
 
 
 
