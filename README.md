@@ -68,10 +68,23 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
     Youtube Ders Linki:  https://www.youtube.com/watch?v=4aYTnD2MjyI  
 
   * Oturum 3 : Selenium ile tarayıcı otomasyonu, form doldurma, tıklama,   
+    Youtube Ders Linki:  https://www.youtube.com/watch?v=dK6xv8gPfBk   
+
+
+- Hafta 6: Flask ile Web Geliştirme ve Final Projesi
+  
+  * Oturum 1 : Flask kurulumu, ilk uygulama, route tanımlama, Jinja2 şablonları.    
+    Youtube Ders Linki:   
+
+  * Oturum 2 : Form işlemleri (POST/GET), statik dosyalar, kullanıcı etkileşimi.   
+    Youtube Ders Linki:  
+
+  * Oturum 3 : Final Projesi: Kişisel blog ve not uygulaması (Flask + SQLite + HTML/CSS).  
+  → Proje sunumu, geri bildirim, GitHub’a yükleme   
     Youtube Ders Linki:  
 
 
-- Hafta 6: Numpy ve Numpy Dosya İşlemleri
+- Hafta 7: Numpy ve Numpy Dosya İşlemleri
   
   * Oturum 1 : NumPy giriş: np.array(), shape, dtype, temel işlemler, broadcasting,   
     Youtube Ders Linki:  
@@ -83,7 +96,7 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
     Youtube Ders Linki:  
 
 
-- Hafta 7: Pandas ve Veri Görselleştirme
+- Hafta 8: Pandas ve Veri Görselleştirme
   
   * Oturum 1 : Pandas: Series, DataFrame, CSV/Excel yükleme, head(), info(), describe()  
     Youtube Ders Linki:  
@@ -94,18 +107,6 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
   * Oturum 3 : Matplotlib ve Seaborn ile grafik çizimi,    
     Youtube Ders Linki:  
 
-
-- Hafta 8: Flask ile Web Geliştirme ve Final Projesi
-  
-  * Oturum 1 : Flask kurulumu, ilk uygulama, route tanımlama, Jinja2 şablonları.    
-    Youtube Ders Linki:  
-
-  * Oturum 2 : Form işlemleri (POST/GET), statik dosyalar, kullanıcı etkileşimi.   
-    Youtube Ders Linki:  
-
-  * Oturum 3 : Final Projesi: Kişisel blog ve not uygulaması (Flask + SQLite + HTML/CSS).  
-  → Proje sunumu, geri bildirim, GitHub’a yükleme   
-    Youtube Ders Linki:  
 
 
 iletisim icin: akademi@ecodation.com    sinanurun24@gmail.com
