@@ -74,7 +74,7 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
 - Hafta 6: Flask ile Web Geliştirme ve Final Projesi
   
   * Oturum 1 : Flask kurulumu, ilk uygulama, route tanımlama, Jinja2 şablonları.    
-    Youtube Ders Linki:   
+    Youtube Ders Linki:  https://www.youtube.com/watch?v=vgzBoLx6LVg    
 
   * Oturum 2 : Form işlemleri (POST/GET), statik dosyalar, kullanıcı etkileşimi.   
     Youtube Ders Linki:  
