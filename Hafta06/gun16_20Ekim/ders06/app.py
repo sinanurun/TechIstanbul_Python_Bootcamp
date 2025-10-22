@@ -21,6 +21,7 @@ def user(isim):
 @app.route('/anasayfa')
 def anasayfa():
     return redirect(url_for('index'))  # /'ye yönlendirir
+    # return redirect("https://google.com")
 
 # Hata sayfası özelleştirme
 @app.errorhandler(404)
