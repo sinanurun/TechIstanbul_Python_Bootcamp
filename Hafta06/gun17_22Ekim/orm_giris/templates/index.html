@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask To-Do Uygulaması</title>
+    <style>
+        body { font-family: sans-serif; max-width: 600px; margin: 40px auto; padding: 20px; border: 1px solid #ccc; border-radius: 8px; }
+        h1 { text-align: center; }
+        .todo-item { display: flex; justify-content: space-between; align-items: center; padding: 10px; border-bottom: 1px dashed #eee; }
+        .todo-item.complete .title { text-decoration: line-through; color: gray; }
+        .actions a { margin-left: 10px; text-decoration: none; padding: 5px 10px; border-radius: 4px; }
+        .update-btn { background-color: #4CAF50; color: white; }
+        .delete-btn { background-color: #f44336; color: white; }
+        .add-form { display: flex; margin-bottom: 20px; }
+        .add-form input[type="text"] { flex-grow: 1; padding: 8px; border: 1px solid #ccc; border-radius: 4px; }
+        .add-form button { padding: 8px 15px; background-color: #007bff; color: white; border: none; border-radius: 4px; margin-left: 10px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h1>Yapılacaklar Listesi</h1>
+
+    <form class="add-form" action="{{ url_for('add') }}" method="POST">
+        <input type="text" name="title" placeholder="Yeni görev ekle..." required>
+        <button type="submit">Ekle</button>
+    </form>
+    
+    <hr>
+
+    <div>
+        {% for todo in todo_list %}
+            <div class="todo-item {% if todo.complete %}complete{% endif %}">
+                <span class="title">{{ todo.title }}</span>
+                <div class="actions">
+                    <a href="{{ url_for('update', todo_id=todo.id) }}" 
+                       class="update-btn">
+                        {% if todo.complete %}Geri Al{% else %}Tamamla{% endif %}
+                    </a>
+                    <a href="{{ url_for('delete', todo_id=todo.id) }}" 
+                       class="delete-btn">
+                       Sil
+                    </a>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+
+</body>
+</html>
