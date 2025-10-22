@@ -1,0 +1,10 @@
+<h2>Aktif Kullanıcılar</h2>
+<ul>
+{% for k in kullanicilar %}
+    {% if k.aktif %}
+        <li>{{ k.ad }} ✅</li>
+    {% endif %}
+{% else %}
+    <li>Hiç aktif kullanıcı yok.</li>
+{% endfor %}
+</ul>

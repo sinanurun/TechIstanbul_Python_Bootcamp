@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Yapılacaklar Listem</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 600px; margin: 40px auto; }
+        h1 { color: #2c3e50; text-align: center; }
+        .todo-item {
+            padding: 10px;
+            margin: 8px 0;
+            border-radius: 5px;
+            background: #f9f9f9;
+        }
+        .tamamlandi {
+            text-decoration: line-through;
+            color: #7f8c8d;
+            background: #ecf0f1;
+        }
+        .eksi { color: red; }
+        .arti { color: green; }
+    </style>
+</head>
+<body>
+    <h1>✅ Yapılacaklar Listem</h1>
+
+    {% if todos|length == 0 %}
+        <p>Henüz yapılacak bir şey eklenmemiş.</p>
+    {% else %}
+        <p>Toplam: {{ todos|length }} görev | 
+           Tamamlanan: {{ todos|selectattr('tamamlandi')|list|length }}
+        </p>
+
+        <ul style="list-style: none; padding: 0;">
+        {% for todo in todos %}
+            <li class="todo-item {% if todo.tamamlandi %}tamamlandi{% endif %}">
+                {% if todo.tamamlandi %}
+                    <span class="arti">✓</span>
+                {% else %}
+                    <span class="eksi">○</span>
+                {% endif %}
+                {{ todo.gorev }}
+            </li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>

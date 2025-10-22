@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>İletişim Formu</h2>
+<form method="POST">
+    <p>
+        <label>Adınız:</label><br>
+        <input type="text" name="ad" required>
+    </p>
+    <p>
+        <button type="submit">Gönder</button>
+    </p>
+</form>
+
+{% if mesaj %}
+    <p style="color: green;">{{ mesaj }}</p>
+{% endif %}
+{% endblock %}

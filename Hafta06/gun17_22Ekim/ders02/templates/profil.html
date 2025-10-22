@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+    {% if kullanici %}
+        <h1>Hoş geldin, {{ kullanici.ad }}!</h1>
+
+        {% if kullanici.aktif %}
+            <p style="color: green;">✅ Hesabın aktif.</p>
+        {% else %}
+            <p style="color: red;">⚠️ Hesabın pasif.</p>
+        {% endif %}
+
+        {% if kullanici.ad == "Admin" %}
+            <p>Yönetici paneline erişebilirsin.</p>
+        {% endif %}
+    {% else %}
+        <p>Oturum açmamışsın. <a href="/giris">Giriş yap</a></p>
+    {% endif %}
+</body>
+</html>

@@ -1,0 +1,14 @@
+flask_blog/
+├── venv/                     ← sanal ortam (gitignore'da!)
+├── requirements.txt
+├── .gitignore
+├── app.py                    ← ana uygulama dosyası
+├── config.py                 ← yapılandırma (isteğe bağlı)
+├── static/                   ← CSS, JS, resimler
+│   ├── style.css
+│   └── script.js
+└── templates/                ← Jinja2 şablonları
+    ├── base.html
+    ├── index.html
+    ├── about.html
+    └── user.html

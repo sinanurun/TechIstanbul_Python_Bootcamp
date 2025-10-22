@@ -1,0 +1,19 @@
+flask-rest-api/
+│
+├── app.py
+└── users.json   (veritabanı yerine geçecek basit bir dosya)
+
+json başlangıç verisi
+
+[
+    {
+        "id": 1,
+        "name": "Ahmet Yılmaz",
+        "email": "ahmet@example.com"
+    },
+    {
+        "id": 2,
+        "name": "Ayşe Demir",
+        "email": "ayse@example.com"
+    }
+]

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ kullanici.ad }} {{ kullanici.soyad }}</title>
+    <style>
+        body { font-family: Arial; max-width: 600px; margin: 40px auto; text-align: center; }
+        .resim { width: 150px; height: 150px; object-fit: cover; border-radius: 50%; margin-bottom: 20px; }
+        a { display: inline-block; margin-top: 20px; text-decoration: none; color: #007bff; }
+    </style>
+</head>
+<body>
+    <h1>{{ kullanici.ad }} {{ kullanici.soyad }}</h1>
+    {% if kullanici.resim %}
+        <img src="{{ url_for('static', filename='uploads/' + kullanici.resim) }}" class="resim" alt="Profil">
+    {% else %}
+        <div style="width:150px; height:150px; background:#ddd; margin:0 auto 20px; display:flex; align-items:center; justify-content:center;">?</div>
+    {% endif %}
+
+    <p><strong>ID:</strong> {{ kullanici.id }}</p>
+    <p><strong>Resim:</strong> {{ kullanici.resim or "Yok" }}</p>
+
+    <a href="{{ url_for('index') }}">← Ana Sayfaya Dön</a>
+</body>
+</html>

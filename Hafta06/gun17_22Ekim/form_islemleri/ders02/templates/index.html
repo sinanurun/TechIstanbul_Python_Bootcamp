@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head><title>Kişi Defteri</title></head>
+<body>
+    <h2>Yeni Kişi Ekle</h2>
+    <form method="POST">
+        <p>
+            <label>Ad:</label><br>
+            <input type="text" name="ad" required>
+        </p>
+        <p>
+            <label>E-posta:</label><br>
+            <input type="email" name="email" required>
+        </p>
+        <button type="submit">Ekle</button>
+    </form>
+
+    <hr>
+
+    <h3>Kayıtlı Kişiler ({{ kisiler|length }})</h3>
+    {% if kisiler %}
+        <ul>
+        {% for kisi in kisiler %}
+            <li>{{ kisi.ad }} — {{ kisi.email }}</li>
+        {% endfor %}
+        </ul>
+    {% else %}
+        <p>Henüz kimse eklenmemiş.</p>
+    {% endif %}
+</body>
+</html>

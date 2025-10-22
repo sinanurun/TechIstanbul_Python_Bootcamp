@@ -1,0 +1,8 @@
+{% for kat in kategoriler %}
+    <h3>{{ kat.ad }}</h3>
+    <ul>
+    {% for urun in kat.urunler %}
+        <li>{{ urun }}</li>
+    {% endfor %}
+    </ul>
+{% endfor %}
