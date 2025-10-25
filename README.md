@@ -77,7 +77,7 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
     Youtube Ders Linki:  https://www.youtube.com/watch?v=vgzBoLx6LVg    
 
   * Oturum 2 : Form işlemleri (POST/GET), statik dosyalar, kullanıcı etkileşimi.   
-    Youtube Ders Linki:  
+    Youtube Ders Linki:  https://www.youtube.com/watch?v=L82cOS2Ur9k  
 
   * Oturum 3 : Final Projesi: Kişisel blog ve not uygulaması (Flask + SQLite + HTML/CSS).  
     Youtube Ders Linki:  
