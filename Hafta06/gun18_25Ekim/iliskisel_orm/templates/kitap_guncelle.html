@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Kitabı Güncelle</h2>
+<form method="POST">
+    <div class="mb-3">
+        <label for="baslik" class="form-label">Başlık</label>
+        <input type="text" class="form-control" id="baslik" name="baslik" value="{{ kitap.baslik }}" required>
+    </div>
+    <div class="mb-3">
+        <label for="yazar" class="form-label">Yazar</label>
+        <input type="text" class="form-control" id="yazar" name="yazar" value="{{ kitap.yazar }}" required>
+    </div>
+    <div class="mb-3">
+        <label for="kategori_id" class="form-label">Kategori</label>
+        <select class="form-select" id="kategori_id" name="kategori_id" required>
+            {% for k in kategoriler %}
+            <option value="{{ k.id }}" {% if k.id == kitap.kategori_id %}selected{% endif %}>{{ k.ad }}</option>
+            {% endfor %}
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Güncelle</button>
+    <a href="{{ url_for('index') }}" class="btn btn-secondary">İptal</a>
+</form>
+{% endblock %}

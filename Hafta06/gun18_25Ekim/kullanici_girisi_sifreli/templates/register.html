@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Kayıt Ol</h2>
+<form method="POST">
+    <p><input type="text" name="username" placeholder="Kullanıcı Adı" required></p>
+    <p><input type="password" name="password" placeholder="Şifre" required></p>
+    <p><button type="submit">Kayıt Ol</button></p>
+</form>
+<p>Zaten hesabın var mı? <a href="{{ url_for('login') }}">Giriş Yap</a></p>
+{% endblock %}

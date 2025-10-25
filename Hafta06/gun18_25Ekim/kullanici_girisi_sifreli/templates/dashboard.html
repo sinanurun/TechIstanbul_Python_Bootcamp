@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Hoş geldin, {{ username }}!</h2>
+<p>Burada güvendesin. 😊</p>
+<a href="{{ url_for('logout') }}">Çıkış Yap</a>
+{% endblock %}

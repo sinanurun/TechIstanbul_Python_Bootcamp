@@ -1,0 +1,11 @@
+flask-login-orm/
+│
+├── app.py
+├── models.py
+├── templates/
+│   ├── base.html
+│   ├── login.html
+│   ├── register.html
+│   └── dashboard.html
+└── instance/
+    └── site.db  (SQLite veritabanı)

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Kullanıcı Yönetimi</title>
+    <style>
+        body { font-family: Arial; max-width: 800px; margin: 20px auto; }
+        .form-kutusu { background: #f0f8ff; padding: 20px; border-radius: 8px; margin-bottom: 30px; }
+        input, button { padding: 8px; margin: 5px 0; }
+        button { background: #28a745; color: white; border: none; cursor: pointer; }
+        button:hover { opacity: 0.9; }
+        .kullanici-liste { margin-top: 20px; }
+        .kullanici-item { display: flex; align-items: center; padding: 10px; border-bottom: 1px solid #eee; }
+        .kullanici-resim { width: 50px; height: 50px; object-fit: cover; margin-right: 15px; }
+        .aksiyonlar a { margin-left: 10px; text-decoration: none; }
+        .sil { color: red; }
+        .guncelle { color: orange; }
+        .flash { padding: 10px; margin: 10px 0; border-radius: 4px; }
+        .success { background: #d4edda; color: #155724; }
+        .error { background: #f8d7da; color: #721c24; }
+    </style>
+</head>
+<body>
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% for category, message in messages %}
+            <div class="flash {{ category }}">{{ message }}</div>
+        {% endfor %}
+    {% endwith %}
+
+    <h2>Yeni Kullanıcı Ekle</h2>
+    <div class="form-kutusu">
+        <form method="POST" action="{{ url_for('ekle') }}" enctype="multipart/form-data">
+            <p>
+                <label>Ad:</label><br>
+                <input type="text" name="ad" required>
+            </p>
+            <p>
+                <label>Soyad:</label><br>
+                <input type="text" name="soyad" required>
+            </p>
+            <p>
+                <label>Resim (isteğe bağlı):</label><br>
+                <input type="file" name="resim" accept="image/*">
+            </p>
+            <button type="submit">Ekle</button>
+        </form>
+    </div>
+
+    <h2>Kayıtlı Kullanıcılar ({{ kullanicilar|length }})</h2>
+    <div class="kullanici-liste">
+        {% if kullanicilar %}
+            {% for k in kullanicilar %}
+                <div class="kullanici-item">
+                    {% if k.resim %}
+                        <img src="{{ url_for('static', filename='uploads/' + k.resim) }}" class="kullanici-resim" alt="{{ k.ad }}">
+                    {% else %}
+                        <div style="width:50px; height:50px; background:#ccc; margin-right:15px; display:flex; align-items:center; justify-content:center;">?</div>
+                    {% endif %}
+                    <div>
+                        <strong>{{ k.ad }} {{ k.soyad }}</strong><br>
+                        <a href="{{ url_for('kullanici_detay', kullanici_id=k.id) }}">Detay</a>
+                        <span class="aksiyonlar">
+    <a href="{{ url_for('guncelle', kullanici_id=k.id) }}" class="guncelle">Güncelle</a>
+    <a href="{{ url_for('sil', kullanici_id=k.id) }}" 
+       class="sil" 
+       onclick="return confirm('Silmek istediğinize emin misiniz?');">Sil</a>
+</span>
+                    </div>
+                </div>
+            {% endfor %}
+        {% else %}
+            <p>Henüz kullanıcı eklenmemiş.</p>
+        {% endif %}
+    </div>
+
+</body>
+</html>

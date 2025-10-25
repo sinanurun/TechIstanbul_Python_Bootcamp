@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Kategoriyi Güncelle</h2>
+<form method="POST">
+    <div class="mb-3">
+        <label for="ad" class="form-label">Kategori Adı</label>
+        <input type="text" class="form-control" id="ad" name="ad" value="{{ kategori.ad }}" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Güncelle</button>
+    <a href="{{ url_for('index') }}" class="btn btn-secondary">İptal</a>
+</form>
+{% endblock %}

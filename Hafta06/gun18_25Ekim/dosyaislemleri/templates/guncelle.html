@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ kullanici.ad }} {{ kullanici.soyad }} - Güncelle</title>
+    <style>
+        body { font-family: Arial; max-width: 600px; margin: 30px auto; }
+        .form-kutusu { background: #fff3cd; padding: 20px; border-radius: 8px; }
+        input, button { padding: 8px; margin: 5px 0; width: 100%; box-sizing: border-box; }
+        button { background: #ffc107; color: black; border: none; cursor: pointer; }
+        button:hover { opacity: 0.9; }
+        .geri { display: inline-block; margin-top: 15px; color: #007bff; text-decoration: none; }
+        .mevcut-resim { text-align: center; margin: 15px 0; }
+        .mevcut-resim img { width: 100px; height: 100px; object-fit: cover; border-radius: 8px; }
+    </style>
+</head>
+<body>
+    <h2>{{ kullanici.ad }} {{ kullanici.soyad }} — Güncelle</h2>
+
+    <div class="form-kutusu">
+        <form method="POST" enctype="multipart/form-data">
+            <p>
+                <label>Ad:</label><br>
+                <input type="text" name="ad" value="{{ kullanici.ad }}" required>
+            </p>
+            <p>
+                <label>Soyad:</label><br>
+                <input type="text" name="soyad" value="{{ kullanici.soyad }}" required>
+            </p>
+
+            <!-- Mevcut resmi göster -->
+            <div class="mevcut-resim">
+                {% if kullanici.resim %}
+                    <p>Mevcut Resim:</p>
+                    <img src="{{ url_for('static', filename='uploads/' + kullanici.resim) }}" alt="Mevcut">
+                {% else %}
+                    <p>Resim yok.</p>
+                {% endif %}
+            </div>
+
+            <p>
+                <label>Yeni Resim (değiştirmek istiyorsanız):</label><br>
+                <input type="file" name="resim" accept="image/*">
+            </p>
+
+            <button type="submit">Güncelle</button>
+        </form>
+    </div>
+
+    <a href="{{ url_for('index') }}" class="geri">← Ana Sayfaya Dön</a>
+</body>
+</html>

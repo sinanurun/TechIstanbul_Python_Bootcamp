@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Kategoriler</h2>
+<ul class="list-group mb-4">
+    {% for k in kategoriler %}
+        <li class="list-group-item d-flex justify-content-between">
+            {{ k.ad }}
+            <div>
+                <a href="{{ url_for('kategori_guncelle', id=k.id) }}" class="btn btn-sm btn-warning">Güncelle</a>
+                <a href="{{ url_for('kategori_sil', id=k.id) }}" class="btn btn-sm btn-danger" onclick="return confirm('Silmek istediğinize emin misiniz?')">Sil</a>
+            </div>
+        </li>
+    {% else %}
+        <li class="list-group-item">Henüz kategori yok.</li>
+    {% endfor %}
+</ul>
+
+<h2>Kitaplar</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Başlık</th>
+            <th>Yazar</th>
+            <th>Kategori</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for k in kitaplar %}
+        <tr>
+            <td>{{ k.baslik }}</td>
+            <td>{{ k.yazar }}</td>
+            <td>{{ k.kategori.ad if k.kategori else 'Silinmiş Kategori' }}</td>
+            <td>
+                <a href="{{ url_for('kitap_guncelle', id=k.id) }}" class="btn btn-sm btn-warning">Güncelle</a>
+                <a href="{{ url_for('kitap_sil', id=k.id) }}" class="btn btn-sm btn-danger" onclick="return confirm('Silmek istediğinize emin misiniz?')">Sil</a>
+            </td>
+        </tr>
+        {% else %}
+        <tr><td colspan="4">Henüz kitap yok.</td></tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

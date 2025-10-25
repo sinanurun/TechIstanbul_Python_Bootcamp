@@ -1,0 +1,9 @@
+kullanici_yonetimi/
+├── app.py
+├── veriler/
+│   └── kullanicilar.json   ← veriler burada
+├── static/
+│   └── uploads/            ← yüklenen resimler burada
+└── templates/
+    ├── index.html          ← ana sayfa (liste + form)
+    └── kullanici.html      ← tek kullanıcı detayı

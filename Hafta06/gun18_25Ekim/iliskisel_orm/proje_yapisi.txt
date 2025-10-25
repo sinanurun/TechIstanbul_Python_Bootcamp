@@ -1,0 +1,14 @@
+flask-kitap-kategori/
+│
+├── app.py                 # Ana Flask uygulaması
+├── models.py              # ORM modelleri (Kitap ve Kategori)
+├── requirements.txt       # Gerekli paketler
+└── instance/
+│   └── site.db            # SQLite veritabanı (otomatik oluşturulacak)
+└── templates/
+    ├── base.html
+    ├── index.html
+    ├── kategori_ekle.html
+    ├── kategori_guncelle.html
+    ├── kitap_ekle.html
+    └── kitap_guncelle.html

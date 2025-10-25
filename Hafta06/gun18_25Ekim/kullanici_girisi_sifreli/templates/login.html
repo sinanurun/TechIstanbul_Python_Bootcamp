@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Giriş Yap</h2>
+<form method="POST">
+    <p><input type="text" name="username" placeholder="Kullanıcı Adı" required></p>
+    <p><input type="password" name="password" placeholder="Şifre" required></p>
+    <p><button type="submit">Giriş Yap</button></p>
+</form>
+<p>Hesabın yok mu? <a href="{{ url_for('register') }}">Kayıt Ol</a></p>
+{% endblock %}

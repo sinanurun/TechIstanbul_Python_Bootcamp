@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Yeni Kitap Ekle</h2>
+<form method="POST">
+    <div class="mb-3">
+        <label for="baslik" class="form-label">Başlık</label>
+        <input type="text" class="form-control" id="baslik" name="baslik" required>
+    </div>
+    <div class="mb-3">
+        <label for="yazar" class="form-label">Yazar</label>
+        <input type="text" class="form-control" id="yazar" name="yazar" required>
+    </div>
+    <div class="mb-3">
+        <label for="kategori_id" class="form-label">Kategori</label>
+        <select class="form-select" id="kategori_id" name="kategori_id" required>
+            <option value="">Seçiniz</option>
+            {% for k in kategoriler %}
+            <option value="{{ k.id }}">{{ k.ad }}</option>
+            {% endfor %}
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Ekle</button>
+    <a href="{{ url_for('index') }}" class="btn btn-secondary">İptal</a>
+</form>
+{% endblock %}
