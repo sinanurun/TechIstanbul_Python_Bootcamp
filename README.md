@@ -85,7 +85,8 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
 
 - Hafta 7: Numpy ve Numpy Dosya İşlemleri
   
-  * Oturum 1 : NumPy giriş: np.array(), shape, dtype, temel işlemler, broadcasting,   
+  * Oturum 1 : NumPy giriş: np.array(), shape, dtype, temel işlemler, broadcasting,
+    Drive Ders Linki : https://colab.research.google.com/drive/1sz9ieAMzfv4YEjYCkuGvX1Gn2F58NwTg?usp=sharing       
     Youtube Ders Linki:  
 
   * Oturum 2 : NumPy: indeksleme, dilimleme, reshape, transpose, np.random  
