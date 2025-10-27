@@ -80,7 +80,7 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
     Youtube Ders Linki:  https://www.youtube.com/watch?v=L82cOS2Ur9k  
 
   * Oturum 3 : flask_sqlalchemy ile Orm, api geliştirme, dosya işlemleri   
-    Youtube Ders Linki:  
+    Youtube Ders Linki:  https://www.youtube.com/watch?v=wZ2gCQkQAzs  
 
 
 - Hafta 7: Numpy ve Numpy Dosya İşlemleri
