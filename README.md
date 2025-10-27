@@ -79,7 +79,7 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
   * Oturum 2 : Form işlemleri (POST/GET), statik dosyalar, kullanıcı etkileşimi.   
     Youtube Ders Linki:  https://www.youtube.com/watch?v=L82cOS2Ur9k  
 
-  * Oturum 3 : Final Projesi: Kişisel blog ve not uygulaması (Flask + SQLite + HTML/CSS).  
+  * Oturum 3 : flask_sqlalchemy ile Orm, api geliştirme, dosya işlemleri   
     Youtube Ders Linki:  
 
 
@@ -105,6 +105,8 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
 
   * Oturum 3 : Matplotlib ve Seaborn ile grafik çizimi,    
     Youtube Ders Linki:  
+
+    
   → Proje sunumu, geri bildirim, GitHub’a yükleme   
 
 
