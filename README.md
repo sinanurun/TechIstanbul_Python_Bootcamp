@@ -87,7 +87,7 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
   
   * Oturum 1 : NumPy giriş: np.array(), shape, dtype, temel işlemler, broadcasting,
     Drive Ders Linki : https://colab.research.google.com/drive/1sz9ieAMzfv4YEjYCkuGvX1Gn2F58NwTg?usp=sharing       
-    Youtube Ders Linki:  
+    Youtube Ders Linki:  https://www.youtube.com/watch?v=HomrmQuPZG0  
 
   * Oturum 2 : NumPy: indeksleme, dilimleme, reshape, transpose, np.random  
     Youtube Ders Linki:  
