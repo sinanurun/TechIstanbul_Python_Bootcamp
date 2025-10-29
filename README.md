@@ -9,7 +9,11 @@ Bu proje sıfırdan ileri seviyeye Python ile programlama pratikleri edinmek ist
 
 ## 🛠️ Kullanılan Teknolojiler
 
-Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara hafta hafta yer verilecektir.
+Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara hafta hafta yer verilecektir. Konular işlenirken ihtiyaç duyulan programlar ve kütüphaneler ders sırasına eklenecektir. Ayrıntılar için ders video linklerini inceleyebilir veya haftalık ders dizinlerini kontrol edebilirsiniz. Ayrıca gerekli kurulumlar için requirements.txt kullanarak bootcamp boyu kullanılanıılan kütüphaneleri kullanacak olduğunuz sisteme yükleyebilirsiniz.   
+Başarılar Dilerim   
+Sinan ÜRÜN   
+Bilgisayar Öğretmeni ve Mühendisi   
+
 
 - Hafta 1: Python’a Giriş ve Temel Programlama
   
