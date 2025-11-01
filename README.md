@@ -47,19 +47,19 @@ Bilgisayar Öğretmeni ve Mühendisi
   * Oturum 2 : Modüller: math, random, datetime, kendi modülünüzü yazma  
     Youtube Ders Linki:  https://www.youtube.com/watch?v=Hl-TuWwdoJU    
 
-  * Oturum 3 : .txt ve .csv okuma/yazma, with kullanımı   
+  * Oturum 3 : .txt, .csv, .json dosyalarında  okuma/yazma, with kullanımı   
     Youtube Ders Linki:  https://www.youtube.com/watch?v=1NsyN84DAf8  
 
 
-- Hafta 4: Nesne Yönelimli Programlama (OOP) ve Veritabanı
+- Hafta 4: Nesne Yönelimli Programlama (OOP) ve Veritabanı oluşturma ve kullanımı, Sqlite
   
   * Oturum 1 : Sınıflar, nesneler, __init__, özellikler ve metotlar,  
     Youtube Ders Linki:  https://www.youtube.com/watch?v=jhFlxS60fig  
 
-  * Oturum 2 : Kalıtım, super(), @property, @setter, __str__, __repr__  
+  * Oturum 2 : Kalıtım, super(), @property, @setter, decorator, __str__, __repr__  
     Youtube Ders Linki:  https://www.youtube.com/watch?v=f9jK7dJW31M  
 
-  * Oturum 3 : SQLite: tablo oluşturma, veri ekleme/silme, CRUD işlemleri,   
+  * Oturum 3 : SQLite: tablo oluşturma, veri ekleme/silme, CRUD işlemleri, ORM işlemleri   
     Youtube Ders Linki:  https://www.youtube.com/watch?v=szEoJ3gX6s8    
 
 
@@ -71,13 +71,13 @@ Bilgisayar Öğretmeni ve Mühendisi
   * Oturum 2 : BeautifulSoup ile web scraping, CSS seçiciler, haber başlıkları çekme  
     Youtube Ders Linki:  https://www.youtube.com/watch?v=4aYTnD2MjyI  
 
-  * Oturum 3 : Selenium ile tarayıcı otomasyonu, form doldurma, tıklama,   
+  * Oturum 3 : Selenium ile tarayıcı otomasyonu, form doldurma, tıklama, tarayıcı işlemleri  
     Youtube Ders Linki:  https://www.youtube.com/watch?v=dK6xv8gPfBk   
 
 
-- Hafta 6: Flask ile Web Geliştirme ve Final Projesi
+- Hafta 6: Flask ile Web Geliştirme ve Sanal Ortam Kullanımı
   
-  * Oturum 1 : Flask kurulumu, ilk uygulama, route tanımlama, Jinja2 şablonları.    
+  * Oturum 1 : Sanal Ortam, Flask kurulumu, ilk uygulama, route tanımlama, Jinja2 şablonları, base template      
     Youtube Ders Linki:  https://www.youtube.com/watch?v=vgzBoLx6LVg    
 
   * Oturum 2 : Form işlemleri (POST/GET), statik dosyalar, kullanıcı etkileşimi.   
@@ -93,11 +93,12 @@ Bilgisayar Öğretmeni ve Mühendisi
     Drive Ders Linki : https://colab.research.google.com/drive/1sz9ieAMzfv4YEjYCkuGvX1Gn2F58NwTg?usp=sharing       
     Youtube Ders Linki:  https://www.youtube.com/watch?v=HomrmQuPZG0  
 
-  * Oturum 2 : NumPy: indeksleme, dilimleme, reshape, transpose, np.random   
+  * Oturum 2 : NumPy: indeksleme, dilimleme, reshape, transpose, nparange, np.random   
     Drive Ders Linki : https://colab.research.google.com/drive/1c9-iU84JGAfobOM9YcxrvQUP6eetPW7o?usp=sharing   
     Youtube Ders Linki:  https://www.youtube.com/watch?v=NeVOFfELhVc    
 
-  * Oturum 3 : mean, std, sum, np.where, np.nan, np.loadtxt,   
+  * Oturum 3 : numpy istatistiksel işlemler, mean, std, sum, np.where, np.nan, np.loadtxt,
+    Drive Dersi Linki:  
     Youtube Ders Linki:  
 
 

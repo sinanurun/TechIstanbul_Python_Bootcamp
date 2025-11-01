@@ -20,4 +20,4 @@ pip list     kurulu kütüphane listesi veriyor
 
 pip freeze > requirements.txt            ile sistemde kurulu olan kütüphane listesini bir dosyaya yazdırıyoruz
 
-pip install -r requirements.txt          ile sesme text dosyasında listenenen kütüphaneleri kuruyoruz 
+pip install -r requirements.txt          ile sisteme text dosyasında listenenen kütüphaneleri kuruyoruz 
