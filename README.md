@@ -95,7 +95,7 @@ Bilgisayar Öğretmeni ve Mühendisi
 
   * Oturum 2 : NumPy: indeksleme, dilimleme, reshape, transpose, np.random   
     Drive Ders Linki : https://colab.research.google.com/drive/1c9-iU84JGAfobOM9YcxrvQUP6eetPW7o?usp=sharing   
-    Youtube Ders Linki:  
+    Youtube Ders Linki:  https://www.youtube.com/watch?v=NeVOFfELhVc    
 
   * Oturum 3 : mean, std, sum, np.where, np.nan, np.loadtxt,   
     Youtube Ders Linki:  
