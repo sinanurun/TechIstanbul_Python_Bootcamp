@@ -104,10 +104,10 @@ Bilgisayar Öğretmeni ve Mühendisi
 
 - Hafta 8: Pandas ve Veri Görselleştirme
   
-  * Oturum 1 : Pandas: Series, DataFrame, CSV/Excel yükleme, head(), info(), describe()  
+  * Oturum 1 : Pandas: Series, DataFrame,  head(), info(), describe()  
     Youtube Ders Linki:  
 
-  * Oturum 2 : Filtreleme, gruplama (groupby), eksik veri (fillna, dropna), yeni sütun ekleme  
+  * Oturum 2 : Filtreleme, gruplama (groupby), eksik veri (fillna, dropna),CSV/Excel yükleme, yeni sütun ekleme  
     Youtube Ders Linki:  
 
   * Oturum 3 : Matplotlib ve Seaborn ile grafik çizimi,    
