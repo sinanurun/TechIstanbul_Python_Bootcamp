@@ -99,7 +99,7 @@ Bilgisayar Öğretmeni ve Mühendisi
 
   * Oturum 3 : numpy istatistiksel işlemler, mean, std, sum, np.where, np.nan, np.loadtxt,
     Drive Dersi Linki:  https://colab.research.google.com/drive/1G1FWlCefPKSCH_vm-W2DGsvgl4NEgmUJ?usp=sharing    
-    Youtube Ders Linki:  
+    Youtube Ders Linki:  https://www.youtube.com/watch?v=EuMm7qZ7IDI  
 
 
 - Hafta 8: Pandas ve Veri Görselleştirme
