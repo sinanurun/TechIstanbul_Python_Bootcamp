@@ -105,14 +105,18 @@ Bilgisayar Öğretmeni ve Mühendisi
 - Hafta 8: Pandas ve Veri Görselleştirme
   
   * Oturum 1 : Pandas: Series, DataFrame,  head(), info(), describe()  
-    Youtube Ders Linki:  
+    Drive Dersi Linki:  https://colab.research.google.com/drive/1u5pot5soNuo0GPxlUxbSYz0rNbGAdtvl?usp=sharing  
+    Youtube Ders Linki:  https://www.youtube.com/watch?v=gszcXC03zec  
 
   * Oturum 2 : Filtreleme, gruplama (groupby), eksik veri (fillna, dropna),CSV/Excel yükleme, yeni sütun ekleme  
+    Drive Dersi Linki: https://colab.research.google.com/drive/1u5pot5soNuo0GPxlUxbSYz0rNbGAdtvl?usp=sharing  
     Youtube Ders Linki:  
 
   * Oturum 3 : Matplotlib ve Seaborn ile grafik çizimi,    
     Youtube Ders Linki:  
 
+    
+    Proje Örnekleri  :  
     
   → Proje sunumu, geri bildirim, GitHub’a yükleme   
 
