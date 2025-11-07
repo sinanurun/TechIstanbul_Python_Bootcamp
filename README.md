@@ -118,16 +118,18 @@ Bilgisayar Öğretmeni ve Mühendisi
     Youtube Ders Linki:  
 
     
-    Proje Örnekleri  :  
+ 
     
   → Proje sunumu, geri bildirim, GitHub’a yükleme   
+
+ Proje Örnekleri  :  https://colab.research.google.com/drive/1jk_VRczNO4ZuUESGXkPLLyk_L4G1A78Y?usp=sharing  
 
 
 
 iletisim icin: akademi@ecodation.com    sinanurun24@gmail.com
 
 
-Ödev Linki
+Haftalık Ödev Linki
 
 https://colab.research.google.com/drive/1Caq3htvzz0aHhscKLG711kdxVg9kU-gK?usp=sharing
 
