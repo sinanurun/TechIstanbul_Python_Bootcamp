@@ -97,7 +97,7 @@ Bilgisayar Öğretmeni ve Mühendisi
     Colab Ders Linki : https://colab.research.google.com/drive/1c9-iU84JGAfobOM9YcxrvQUP6eetPW7o?usp=sharing   
     Youtube Ders Linki:  https://www.youtube.com/watch?v=NeVOFfELhVc    
 
-  * Oturum 3 : numpy istatistiksel işlemler, mean, std, sum, np.where, np.nan, np.loadtxt,
+  * Oturum 3 : numpy istatistiksel işlemler, mean, std, sum, np.where, np.nan, np.loadtxt,  
     Colab Dersi Linki:  https://colab.research.google.com/drive/1G1FWlCefPKSCH_vm-W2DGsvgl4NEgmUJ?usp=sharing    
     Youtube Ders Linki:  https://www.youtube.com/watch?v=EuMm7qZ7IDI  
 
