@@ -90,30 +90,31 @@ Bilgisayar Öğretmeni ve Mühendisi
 - Hafta 7: Numpy ve Numpy Dosya İşlemleri
   
   * Oturum 1 : NumPy giriş: np.array(), shape, dtype, temel işlemler, broadcasting,  
-    Drive Ders Linki : https://colab.research.google.com/drive/1sz9ieAMzfv4YEjYCkuGvX1Gn2F58NwTg?usp=sharing       
+    Colab Ders Linki : https://colab.research.google.com/drive/1sz9ieAMzfv4YEjYCkuGvX1Gn2F58NwTg?usp=sharing       
     Youtube Ders Linki:  https://www.youtube.com/watch?v=HomrmQuPZG0  
 
   * Oturum 2 : NumPy: indeksleme, dilimleme, reshape, transpose, nparange, np.random   
-    Drive Ders Linki : https://colab.research.google.com/drive/1c9-iU84JGAfobOM9YcxrvQUP6eetPW7o?usp=sharing   
+    Colab Ders Linki : https://colab.research.google.com/drive/1c9-iU84JGAfobOM9YcxrvQUP6eetPW7o?usp=sharing   
     Youtube Ders Linki:  https://www.youtube.com/watch?v=NeVOFfELhVc    
 
   * Oturum 3 : numpy istatistiksel işlemler, mean, std, sum, np.where, np.nan, np.loadtxt,
-    Drive Dersi Linki:  https://colab.research.google.com/drive/1G1FWlCefPKSCH_vm-W2DGsvgl4NEgmUJ?usp=sharing    
+    Colab Dersi Linki:  https://colab.research.google.com/drive/1G1FWlCefPKSCH_vm-W2DGsvgl4NEgmUJ?usp=sharing    
     Youtube Ders Linki:  https://www.youtube.com/watch?v=EuMm7qZ7IDI  
 
 
 - Hafta 8: Pandas ve Veri Görselleştirme
   
   * Oturum 1 : Pandas: Series, DataFrame,  head(), info(), describe()  
-    Drive Dersi Linki:  https://colab.research.google.com/drive/1u5pot5soNuo0GPxlUxbSYz0rNbGAdtvl?usp=sharing  
+    Colab Dersi Linki:  https://colab.research.google.com/drive/1u5pot5soNuo0GPxlUxbSYz0rNbGAdtvl?usp=sharing  
     Youtube Ders Linki:  https://www.youtube.com/watch?v=gszcXC03zec  
 
   * Oturum 2 : Filtreleme, gruplama (groupby), eksik veri (fillna, dropna),CSV/Excel yükleme, yeni sütun ekleme  
-    Drive Dersi Linki: https://colab.research.google.com/drive/1u5pot5soNuo0GPxlUxbSYz0rNbGAdtvl?usp=sharing  
+    Colab Dersi Linki: https://colab.research.google.com/drive/1u5pot5soNuo0GPxlUxbSYz0rNbGAdtvl?usp=sharing  
     Youtube Ders Linki: https://www.youtube.com/watch?v=wiKkoD9eVjs  
       
 
-  * Oturum 3 : Matplotlib ve Seaborn ile grafik çizimi,    
+  * Oturum 3 : Matplotlib ve Seaborn ile grafik çizimi,   
+    Colab Dersi Linki:  https://colab.research.google.com/drive/1vbDra9kovhe43IZrkfRl-YURnlNbJE8P?usp=sharing  
     Youtube Ders Linki:  
 
     
