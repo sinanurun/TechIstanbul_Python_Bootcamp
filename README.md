@@ -115,7 +115,8 @@ Bilgisayar Öğretmeni ve Mühendisi
 
   * Oturum 3 : Matplotlib ve Seaborn ile grafik çizimi,   
     Colab Dersi Linki:  https://colab.research.google.com/drive/1vbDra9kovhe43IZrkfRl-YURnlNbJE8P?usp=sharing  
-    Youtube Ders Linki:  
+    Youtube Ders Linki: https://youtu.be/N9zOZ461bEk. 
+ 
 
     
  
